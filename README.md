@@ -15,7 +15,7 @@ Data yang digunakan merupakan informasi populasi dan persentase pengguna interne
 - Visualisasi grafik tren
 - Bonus: Implementasi interpolasi dalam bahasa C
 
-## 🗂Struktur Direktori
+## Struktur Direktori
 ```
 ├── main.py                  # Implementasi analisis dan visualisasi dengan Python
 ├── main.c                   # Bonus: Implementasi interpolasi Lagrange dalam bahasa C
@@ -25,7 +25,7 @@ Data yang digunakan merupakan informasi populasi dan persentase pengguna interne
 └── README.md                # File ini
 ```
 
-## 📊 Contoh Hasil Interpolasi
+## Contoh Hasil Interpolasi
 | Tahun | Estimasi Populasi | Estimasi % Pengguna Internet |
 |-------|-------------------|-------------------------------|
 | 2005  | 230.894.123       | 2.86%                         |
