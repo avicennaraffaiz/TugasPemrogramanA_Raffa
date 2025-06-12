@@ -1,6 +1,6 @@
 # Tugas Pemrograman A
 
-Repositori ini berisi source code dan laporan untuk menyelesaikan soal Tugas Pemrograman A dari mata kuliah Pemrograman.
+Repositori ini berisi source code dan laporan untuk menyelesaikan soal Tugas Pemrograman A
 
 ## Deskripsi 
 Data yang digunakan merupakan informasi populasi dan persentase pengguna internet di Indonesia dari tahun 1960 hingga 2023. Terdapat data yang hilang di tahun 2005, 2006, 2015, dan 2016. Tugas ini menyelesaikan masalah tersebut dengan pendekatan interpolasi dan regresi.
@@ -44,5 +44,5 @@ pip install numpy pandas matplotlib scipy
 python main.py
 ```
 
-4. Alternatif: Copy-paste semua kode python ke dalam notebook di colab, lalu tambahkan file dataset.
+4. Alternatif: Copy-paste semua kode python ke dalam notebook di colab, tambahkan file dataset, kemudian run.
 
